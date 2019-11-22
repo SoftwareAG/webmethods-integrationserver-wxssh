@@ -1,4 +1,4 @@
-# webmethods-integrationserver-wxssh
+# WxSSH package for webMethods Integration Server
 webMethods Integration Server package to execute commands via SSH on remote machines
 
 
