@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">CQoJ</value>
+  <value name="encodeutf8">true</value>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.File</value>
+    <value>java.io.InputStream</value>
+    <value>com.jcraft.jsch.Channel</value>
+    <value>com.jcraft.jsch.ChannelExec</value>
+    <value>com.jcraft.jsch.JSch</value>
+    <value>com.jcraft.jsch.Session</value>
+  </array>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+</Values>
